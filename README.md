@@ -1,6 +1,7 @@
 # 2048
 this is 2048 game but this version i added codeigniter MVC framework for user management and authentication i also 
 customized for dice. so enjoy rolling the dice.
+the demo link http://creativevalley.co/2048
 
 Installation
 
